@@ -1,4 +1,4 @@
-# open_close_rider_lib_tutorial
+# open_close_rider_tutorial
 
 The purpose of this repository is to teaches users how to use our OCR library `open_close_rider` 
 (https://github.com/Turingraph/open_close_rider.git). It contains 2 chapters.
